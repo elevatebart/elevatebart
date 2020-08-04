@@ -1,16 +1,17 @@
 # Hello Github Visitor
 
 Welcome to my home page.
-My name is Bart and I am ElevateBart on all of the networks.
+
+My name is Bart and I am `ElevateBart` on all of the networks.
 
 ## Blogging
 I used to do blogging on alligator.io which is now DigitalOcean
-[Some tips to traverse a parsed AST][1]
-[What’s new in vue-styleguidist 3][2]
+- [Some tips to traverse a parsed AST][1]
+- [What’s new in vue-styleguidist 3][2]
 
 ## Courses for Vue School
 I recorded a course for Vue School teaching you about [storybookjs in Vue][3]
-I will record plenty more on automated documentation soon
+- I will record plenty more on automated documentation soon
 
 ## Talk
 I gave a talk in Austin at VueConf.us about my fav subject 
