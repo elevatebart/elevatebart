@@ -14,8 +14,9 @@ I recorded a course for Vue School teaching you about [storybookjs in Vue][3]
 - I will record plenty more on automated documentation soon
 
 ## Talk
-I gave a talk in Austin at VueConf.us about my fav subject 
-[component documentation made easy][4] tell me what you think.
+I gave a talk in Austin at VueConf.us about my fav subject: 
+- [component documentation made easy][4] 
+=\> tell me what you think.
 
 ## OSS
 - I maintain [vue-styleguidist][5] a zero config library to document your VueJS components library. 
