@@ -20,7 +20,7 @@ I gave a talk in Austin at VueConf.us about my fav subject:
 
 ## OSS
 - I maintain [vue-styleguidist][5] a zero config library to document your VueJS components library. 
-- I am like automating documentation. Partly because I do not like to write it, partly because I hate when there is none or its structure is unreadable.
+- I really like automating documentation. Because I hate when there is none and I am too lazy to write it myself.
 - What I am most proud of recently are two example of powerful automated documentations
 	- [vue-live][6] being used on the home page of [vue-formulate][7] and in the docs of [vue chakra-ui][8]
 	- [vue-docgen-cli][9] that powers the wonderful docs of [oruga-ui][10] 
