@@ -2,7 +2,10 @@
 
 Welcome to my home page.
 
-My name is Bart and I am `ElevateBart` on all of the networks.
+My name is Bart and I am `ElevateBart` on all of the interwebs.
+
+
+![ElevateBart's github stats](https://github-readme-stats.vercel.app/api?username=ElevateBart&count_private=true&show_icons=true&theme=nightowl)
 
 ## Blogging
 I used to do blogging on alligator.io which is now DigitalOcean
